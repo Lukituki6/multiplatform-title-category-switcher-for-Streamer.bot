@@ -80,3 +80,18 @@ Use it at your own risk. I am not responsible for issues caused by wrong setup, 
 ## Licencja
 
 Projekt jest udostępniony na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
+
+## Nieoficjalny projekt
+
+Ten projekt nie jest oficjalnym narzędziem Streamer.bot, Twitch, YouTube ani Kick.  
+Nie jestem właścicielem ani przedstawicielem żadnej z tych platform.
+
+Streamer.bot, Twitch, YouTube i Kick są znakami/nazwami należącymi do ich właścicieli.  
+Projekt korzysta jedynie z funkcji dostępnych w Streamer.bot i jest udostępniany jako niezależne narzędzie społecznościowe.
+
+## Unofficial project
+
+This project is not affiliated with, endorsed by, or officially supported by Streamer.bot, Twitch, YouTube, or Kick.
+
+Streamer.bot, Twitch, YouTube, and Kick are trademarks or names of their respective owners.  
+This project only uses features available in Streamer.bot and is provided as an independent community tool.
