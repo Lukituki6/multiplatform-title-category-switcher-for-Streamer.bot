@@ -1,6 +1,6 @@
 > [!NOTE]
 > This project is not affiliated with, endorsed by, or officially supported by Streamer.bot, Twitch, YouTube, or Kick. Streamer.bot, Twitch, YouTube, and Kick are trademarks or names of their respective owners. This project only uses features available in Streamer.bot and is provided as an independent community tool. 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # streamerbot-multiplatform-title-category-switcher
 
 Prosty kod C# do Streamer.bot, który zmienia tytuł i kategorię streama na kilku platformach. Twitch, YouTube oraz Kick.
